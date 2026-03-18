@@ -75,7 +75,7 @@ extra:
       link: https://github.com/Sunmax0731/color-kentei-learning
 
 nav:
-  - ホーム: index.md
+  - ホーム: README.md
   - 学習スケジュール: learning_schedule.md
   - 3級教材:
     - 概要: level3/index.md
@@ -122,3 +122,4 @@ exclude_docs: |
   .gitattributes
   .github/
   _site/
+  index.md
