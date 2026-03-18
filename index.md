@@ -1,11 +1,6 @@
----
-title: ホーム
-nav_order: 1
----
-
 # 色彩検定3級・2級 合格学習プログラム
 
-色彩検定の3級（2026年6月）・2級（2026年11月）合格を目指す体系的な学習サイトです。
+色彩検定の **3級（2026年6月）** ・ **2級（2026年11月）** 合格を目指す体系的な学習サイトです。
 
 ---
 
@@ -14,9 +9,10 @@ nav_order: 1
 | 項目 | 内容 |
 |---|---|
 | 開始日 | 2026年3月18日（水） |
-| 3級試験（予定） | **2026年6月28日（日）** 夏期検定 |
-| 2級試験（予定） | **2026年11月8日（日）** 冬期検定 |
+| **3級試験** | **2026年6月28日（日）** 夏期検定 |
+| **2級試験** | **2026年11月8日（日）** 冬期検定 |
 | 学習時間 | 平日 1h/日、土日 2.5h/日（週10時間） |
+| 総時間（見込み） | 約260時間（37週間） |
 
 ---
 
@@ -24,55 +20,50 @@ nav_order: 1
 
 | フェーズ | 期間 | 内容 |
 |---|---|---|
-| [Phase 1: 3級基礎](level3/01_light_and_color) | 3/18〜4/26 | 光・色属性・体系・混色・心理・配色 |
+| Phase 1: 3級基礎 | 3/18〜4/26 | 光・色属性・体系・混色・心理・配色 |
 | Phase 2: 3級仕上げ | 4/27〜6/27 | 応用・模擬試験反復 |
-| **3級受験** | **6/28** | 夏期検定 |
-| Phase 3: 2級基礎 | 6/29〜8/2 | 高度な光・体系・知覚・配色 |
-| Phase 4: 2級応用 | 8/3〜9/13 | 色彩文化・応用デザイン |
-| Phase 5: 2級直前 | 9/14〜11/7 | 弱点補強・模擬試験反復 |
-| **2級受験** | **11/8** | 冬期検定 |
+| **:checkered_flag: 3級受験** | **6/28** | 夏期検定 |
+| Phase 3: 2級基礎〜応用 | 6/29〜9/13 | 高度な光・体系・知覚・配色・文化・デザイン |
+| Phase 4: 2級直前 | 9/14〜11/7 | 弱点補強・模擬試験反復 |
+| **:checkered_flag: 2級受験** | **11/8** | 冬期検定 |
 
 ---
 
-## 3級 教材
+## 3級 教材一覧
 
-| # | トピック | 対象週 |
+| Week | トピック | 時間 |
 |---|---|---|
-| 1 | [光と色の基礎](level3/01_light_and_color) | Week 1 |
-| 2 | [色の三属性](level3/02_color_attributes) | Week 2 |
-| 3 | [色彩体系](level3/03_color_systems) | Week 3 |
-| 4 | [混色](level3/04_color_mixing) | Week 4 |
-| 5 | [色彩心理](level3/05_color_psychology) | Week 5 |
-| 6 | [配色の基本](level3/06_color_harmony) | Week 6 |
-| 7 | [実践応用](level3/07_practical_applications) | Week 7〜8 |
+| W1 | [光と色の基礎](level3/01_light_and_color.md) | 8h |
+| W2 | [色の三属性](level3/02_color_attributes.md) | 10h |
+| W3 | [色彩体系（マンセル・PCCS）](level3/03_color_systems.md) | 10h |
+| W4 | [混色（加法・減法・中間）](level3/04_color_mixing.md) | 10h |
+| W5 | [色彩心理](level3/05_color_psychology.md) | 10h |
+| W6 | [配色の基本](level3/06_color_harmony.md) | 10h |
+| W7-8 | [実践応用（ファッション・インテリア・環境）](level3/07_practical_applications.md) | 20h |
 
 ---
 
-## 2級 教材
+## 2級 教材一覧
 
-| # | トピック | 対象週 |
+| Week | トピック | 時間 |
 |---|---|---|
-| 1 | [光と色（高度）](level2/01_light_and_color_advanced) | Week 16〜17 |
-| 2 | [色彩体系（高度）](level2/02_color_systems_advanced) | Week 18 |
-| 3 | [色彩の知覚・生理](level2/03_color_perception) | Week 19〜20 |
-| 4 | [配色（高度）](level2/04_color_harmony_advanced) | Week 21 |
-| 5 | [色彩文化](level2/05_color_culture) | Week 22〜23 |
-| 6 | [応用デザイン](level2/06_applied_design) | Week 24〜25 |
+| W16-17 | [光と色（高度）](level2/01_light_and_color_advanced.md) | 20h |
+| W18 | [色彩体系（高度）](level2/02_color_systems_advanced.md) | 10h |
+| W19-20 | [色彩の知覚・生理](level2/03_color_perception.md) | 20h |
+| W21 | [配色（高度）](level2/04_color_harmony_advanced.md) | 10h |
+| W22-23 | [色彩文化](level2/05_color_culture.md) | 20h |
+| W24-25 | [応用デザイン](level2/06_applied_design.md) | 20h |
 
 ---
 
 ## 模擬試験
 
-| 試験 | 問題数 | リンク |
+| 試験 | 問題数 | 合格ライン |
 |---|---|---|
-| 3級 模擬試験 第1回 | 30問 | [問題](practice/level3_mock_exam) |
-| 2級 模擬試験 第1回 | 40問 | [問題](practice/level2_mock_exam) |
-
----
-
-## 学習スケジュール
-
-詳細なスケジュールは [学習スケジュール](learning_schedule) を参照してください。
+| [3級 模擬試験 第1回](practice/level3_mock_exam.md) | 30問 | 21問以上（70%） |
+| [3級 解答・解説](practice/level3_mock_answers.md) | — | — |
+| [2級 模擬試験 第1回](practice/level2_mock_exam.md) | 40問 | 28問以上（70%） |
+| [2級 解答・解説](practice/level2_mock_answers.md) | — | — |
 
 ---
 
@@ -85,3 +76,33 @@ nav_order: 1
 | 試験時間 | 60分 | 80分 |
 | 合格基準 | 正答率約70% | 正答率約70% |
 | 受験料 | 8,000円 | 10,000円 |
+
+---
+
+## Claude Code との連携ルール
+
+学習の記録・テスト回答はClaude Codeに以下のフォーマットで送信してください。
+
+=== "学習時間の記録"
+
+    ```
+    学習開始: W1 光と色の基礎
+    （学習中...）
+    学習終了: W1 光と色の基礎
+    ```
+
+=== "確認テストの回答"
+
+    ```
+    テスト回答: 3級 光と色の基礎
+
+    Q1: B
+    Q2: 可視光線
+    Q3: ...
+    ```
+
+=== "模擬試験の受験"
+
+    ```
+    模擬試験: 3級 第1回
+    ```

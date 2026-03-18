@@ -1,0 +1,124 @@
+site_name: 色彩検定3級・2級 合格学習プログラム
+site_description: 色彩検定3級（2026年6月）・2級（2026年11月）合格を目指す体系的な学習サイト
+site_url: https://sunmax0731.github.io/color-kentei-learning/
+repo_url: https://github.com/Sunmax0731/color-kentei-learning
+repo_name: Sunmax0731/color-kentei-learning
+
+docs_dir: .
+site_dir: _site
+
+theme:
+  name: material
+  language: ja
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: purple
+      toggle:
+        icon: material/brightness-7
+        name: ダークモードに切り替え
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: purple
+      toggle:
+        icon: material/brightness-4
+        name: ライトモードに切り替え
+  font:
+    text: Noto Sans JP
+    code: JetBrains Mono
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.code.annotate
+    - toc.follow
+
+plugins:
+  - search:
+      lang: ja
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - tables
+  - attr_list
+  - md_in_html
+  - def_list
+  - footnotes
+  - toc:
+      permalink: true
+      title: 目次
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Sunmax0731/color-kentei-learning
+
+nav:
+  - ホーム: index.md
+  - 学習スケジュール: learning_schedule.md
+  - 3級教材:
+    - 概要: level3/index.md
+    - Week1｜光と色の基礎: level3/01_light_and_color.md
+    - Week2｜色の三属性: level3/02_color_attributes.md
+    - Week3｜色彩体系: level3/03_color_systems.md
+    - Week4｜混色: level3/04_color_mixing.md
+    - Week5｜色彩心理: level3/05_color_psychology.md
+    - Week6｜配色の基本: level3/06_color_harmony.md
+    - Week7-8｜実践応用: level3/07_practical_applications.md
+    - 解答集:
+      - 光と色の基礎: level3/answers/01_answers.md
+      - 色の三属性: level3/answers/02_answers.md
+      - 色彩体系: level3/answers/03_answers.md
+      - 混色: level3/answers/04_answers.md
+      - 色彩心理: level3/answers/05_answers.md
+      - 配色の基本: level3/answers/06_answers.md
+      - 実践応用: level3/answers/07_answers.md
+  - 2級教材:
+    - 概要: level2/index.md
+    - Week16-17｜光と色（高度）: level2/01_light_and_color_advanced.md
+    - Week18｜色彩体系（高度）: level2/02_color_systems_advanced.md
+    - Week19-20｜色彩の知覚・生理: level2/03_color_perception.md
+    - Week21｜配色（高度）: level2/04_color_harmony_advanced.md
+    - Week22-23｜色彩文化: level2/05_color_culture.md
+    - Week24-25｜応用デザイン: level2/06_applied_design.md
+    - 解答集:
+      - 光と色（高度）: level2/answers/01_answers.md
+      - 色彩体系（高度）: level2/answers/02_answers.md
+      - 色彩の知覚・生理: level2/answers/03_answers.md
+      - 配色（高度）: level2/answers/04_answers.md
+      - 色彩文化: level2/answers/05_answers.md
+      - 応用デザイン: level2/answers/06_answers.md
+  - 模擬試験:
+    - 概要: practice/index.md
+    - 3級 第1回（問題）: practice/level3_mock_exam.md
+    - 3級 第1回（解答）: practice/level3_mock_answers.md
+    - 2級 第1回（問題）: practice/level2_mock_exam.md
+    - 2級 第1回（解答）: practice/level2_mock_answers.md
+
+exclude_docs: |
+  mkdocs.yml
+  requirements.txt
+  .gitattributes
+  .github/
+  _site/
