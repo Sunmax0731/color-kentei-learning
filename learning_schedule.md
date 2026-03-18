@@ -103,42 +103,56 @@
 
 3級の上位知識となる2級固有の内容を集中して学習します。
 
-### 光と色（高度）（Week 7〜8）
+### 色のユニバーサルデザイン（Week 7）
 
 | 週 | 期間 | 学習内容 | 予定時間 | 実績時間 | 状態 | 備考 |
 |---|---|---|---|---|---|---|
-| W7 | 4/27(月)〜5/3(日) | 分光分布・等色関数・三刺激値・XYZ表色系 | 10h | | ⬜ 未着手 | |
-| W8 | 5/4(月)〜5/10(日) | L\*a\*b\*表色系・xy色度図・測色・演色評価数 | 10h | | ⬜ 未着手 | |
+| W7 | 4/27(月)〜5/3(日) | CUDの概念・色覚の多様性（P型・D型）・CUD配色手法 | 10h | | ⬜ 未着手 | |
 
-**教材**: [level2/01_light_and_color_advanced.md](level2/01_light_and_color_advanced.md)
+**教材**: [level2/01_universal_design.md](level2/01_universal_design.md)
 
 !!! warning "申込締切注意"
     申込期間は **4月1日（水）〜5月21日（木）** です。W7開始時点（4/27）にはまだ申込できます。5月21日の締切を忘れずに手続きしてください。
 
-### 色彩体系（高度）・色彩の知覚（Week 9〜10）
+### 光と色（Week 8）
+
+| 週 | 期間 | 学習内容 | 予定時間 | 実績時間 | 状態 | 備考 |
+|---|---|---|---|---|---|---|
+| W8 | 5/4(月)〜5/10(日) | 分光分布・等色関数・三刺激値・XYZ表色系・L\*a\*b\*・測色 | 10h | | ⬜ 未着手 | |
+
+**教材**: [level2/02_light_and_color_advanced.md](level2/02_light_and_color_advanced.md)
+
+### マンセル表色系（Week 9）
 
 | 週 | 期間 | 学習内容 | 予定時間 | 実績時間 | 状態 | 備考 |
 |---|---|---|---|---|---|---|
 | W9 | 5/11(月)〜5/17(日) | マンセル詳細・PCCS詳細・NCS・オストワルト体系 | 10h | | ⬜ 未着手 | |
-| W10 | 5/18(月)〜5/24(日) | 色の対比・同化・恒常性・順応・プルキンエ現象 | 10h | | ⬜ 未着手 | |
 
-**教材**: [level2/02_color_systems_advanced.md](level2/02_color_systems_advanced.md) / [level2/03_color_perception.md](level2/03_color_perception.md)
+**教材**: [level2/03_munsell_advanced.md](level2/03_munsell_advanced.md)
 
-### ファッション・インテリア・環境色彩 ＋ 配色（高度）（Week 11）
-
-| 週 | 期間 | 学習内容 | 予定時間 | 実績時間 | 状態 | 備考 |
-|---|---|---|---|---|---|---|
-| W11 | 5/25(月)〜5/31(日) | ファッション・インテリア・環境色彩・カマイユ・セパレーション等 | 10h | | ⬜ 未着手 | |
-
-**教材**: [level3/07_practical_applications.md](level3/07_practical_applications.md) / [level2/04_color_harmony_advanced.md](level2/04_color_harmony_advanced.md)
-
-### 色彩文化・応用デザイン（Week 12）
+### 色彩心理（Week 10）
 
 | 週 | 期間 | 学習内容 | 予定時間 | 実績時間 | 状態 | 備考 |
 |---|---|---|---|---|---|---|
-| W12 | 6/1(月)〜6/7(日) | 日本・西洋の色彩文化・応用デザイン・景観色彩 | 10h | | ⬜ 未着手 | |
+| W10 | 5/18(月)〜5/24(日) | 色の対比・同化・恒常性・順応・プルキンエ現象・色彩感情 | 10h | | ⬜ 未着手 | |
 
-**教材**: [level2/05_color_culture.md](level2/05_color_culture.md) / [level2/06_applied_design.md](level2/06_applied_design.md)
+**教材**: [level2/04_color_psychology_advanced.md](level2/04_color_psychology_advanced.md)
+
+### 配色技法・配色イメージ（Week 11）
+
+| 週 | 期間 | 学習内容 | 予定時間 | 実績時間 | 状態 | 備考 |
+|---|---|---|---|---|---|---|
+| W11 | 5/25(月)〜5/31(日) | カマイユ・フォカマイユ・セパレーション・配色イメージ・イメージスケール | 10h | | ⬜ 未着手 | |
+
+**教材**: [level2/05_color_techniques.md](level2/05_color_techniques.md) / [level2/06_color_image.md](level2/06_color_image.md)
+
+### ビジュアルデザイン・ファッション・インテリア・景観色彩（Week 12）
+
+| 週 | 期間 | 学習内容 | 予定時間 | 実績時間 | 状態 | 備考 |
+|---|---|---|---|---|---|---|
+| W12 | 6/1(月)〜6/7(日) | ビジュアルデザイン・パーソナルカラー・インテリア配色・景観法・安全色彩 | 10h | | ⬜ 未着手 | |
+
+**教材**: [level2/07_visual_design.md](level2/07_visual_design.md) / [level2/08_fashion.md](level2/08_fashion.md) / [level2/09_interior.md](level2/09_interior.md) / [level2/10_landscape_color.md](level2/10_landscape_color.md)
 
 ---
 

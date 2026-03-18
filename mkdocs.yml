@@ -96,19 +96,27 @@ nav:
       - 実践応用: level3/answers/07_answers.md
   - 2級教材:
     - 概要: level2/index.md
-    - Week16-17｜光と色（高度）: level2/01_light_and_color_advanced.md
-    - Week18｜色彩体系（高度）: level2/02_color_systems_advanced.md
-    - Week19-20｜色彩の知覚・生理: level2/03_color_perception.md
-    - Week21｜配色（高度）: level2/04_color_harmony_advanced.md
-    - Week22-23｜色彩文化: level2/05_color_culture.md
-    - Week24-25｜応用デザイン: level2/06_applied_design.md
+    - Week7｜色のユニバーサルデザイン: level2/01_universal_design.md
+    - Week8｜光と色: level2/02_light_and_color_advanced.md
+    - Week9｜マンセル表色系: level2/03_munsell_advanced.md
+    - Week10｜色彩心理: level2/04_color_psychology_advanced.md
+    - Week11｜配色技法: level2/05_color_techniques.md
+    - Week11｜配色イメージ: level2/06_color_image.md
+    - Week12｜ビジュアルデザイン: level2/07_visual_design.md
+    - Week12｜ファッション: level2/08_fashion.md
+    - Week12｜インテリア: level2/09_interior.md
+    - Week12｜景観色彩: level2/10_landscape_color.md
     - 解答集:
-      - 光と色（高度）: level2/answers/01_answers.md
-      - 色彩体系（高度）: level2/answers/02_answers.md
-      - 色彩の知覚・生理: level2/answers/03_answers.md
-      - 配色（高度）: level2/answers/04_answers.md
-      - 色彩文化: level2/answers/05_answers.md
-      - 応用デザイン: level2/answers/06_answers.md
+      - 色のユニバーサルデザイン: level2/answers/01_answers.md
+      - 光と色: level2/answers/02_answers.md
+      - マンセル表色系: level2/answers/03_answers.md
+      - 色彩心理: level2/answers/04_answers.md
+      - 配色技法: level2/answers/05_answers.md
+      - 配色イメージ: level2/answers/06_answers.md
+      - ビジュアルデザイン: level2/answers/07_answers.md
+      - ファッション: level2/answers/08_answers.md
+      - インテリア: level2/answers/09_answers.md
+      - 景観色彩: level2/answers/10_answers.md
   - 模擬試験:
     - 概要: practice/index.md
     - 3級 第1回（問題）: practice/level3_mock_exam.md
